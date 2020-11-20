@@ -33,3 +33,7 @@ Click image to view.
 Commit For
 -----------
 Playstore project.
+
+Just Info
+-----------
+UI and icon assets are not finalized.
